@@ -1,0 +1,2 @@
+rootProject.name = "browse"
+include ':app'
